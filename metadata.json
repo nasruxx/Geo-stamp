@@ -1,0 +1,8 @@
+{
+  "name": "GeoStamp - Photo Location & Time Overlay",
+  "description": "Add beautiful location, timestamp, and metadata templates to your photos using GPS and local time.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
